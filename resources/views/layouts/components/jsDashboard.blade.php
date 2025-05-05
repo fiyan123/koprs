@@ -8,3 +8,6 @@
 
 <!-- Template Javascript -->
 <script src="{{ asset('assets/js/main.js') }}"></script>
+
+{{-- Custom JS --}}
+<script src="{{ asset('assets/js/dashboard.js') }}"></script>

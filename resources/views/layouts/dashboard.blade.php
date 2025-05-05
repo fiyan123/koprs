@@ -32,7 +32,7 @@
     <!-- Carousel End -->
 
     <!-- About Start -->
-    <div class="container-fluid pt-6 pb-6">
+    <div class="container-fluid pt-6 pb-6" id="tentang">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
@@ -61,7 +61,7 @@
     <!-- About End -->
 
     <!-- Sambutan Start -->
-    <div class="container-fluid pt-6 pb-6">
+    <div class="container-fluid pt-6 pb-6" id="sambutanKetua">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -84,7 +84,7 @@
     <!-- Sambutan End -->
 
     <!-- Visi & Misi Start -->
-    <div class="container-fluid pt-6 pb-6">
+    <div class="container-fluid pt-6 pb-6" id="visiMisi">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -113,7 +113,7 @@
     <!-- Visi & Misi End -->
 
     <!-- Core Values -->
-    <div class="container-fluid pt-6 pb-6">
+    <div class="container-fluid pt-6 pb-6" id="coreValues">
         <div class="d-flex justify-content-center align-items-center">
             <h1 class="display-6 text-uppercase mb-4 text-center">Core Values</h1>
         </div>
@@ -181,7 +181,7 @@
     <!-- Core Values End -->
 
     <!-- Struktur Organisasi Start -->
-    <div class="container-fluid service pt-6 pb-6">
+    <div class="container-fluid service pt-6 pb-6" id="strukturOrganisasi">
         <div class="container">
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <h1 class="display-6 text-uppercase mb-5">Struktur Organisasi</h1>
@@ -289,7 +289,7 @@
     <!-- Struktur Organisasi End -->
 
     <!-- Program Kerja Start -->
-    <div class="container-fluid team pt-6 pb-6">
+    <div class="container-fluid team pt-6 pb-6" id="programKerja">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
@@ -315,7 +315,7 @@
     <!-- Program Kerja End -->
 
     <!-- Appoinment Start -->
-    <div class="container-fluid appoinment mt-6 py-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container-fluid appoinment mt-6 py-5 wow fadeIn" data-wow-delay="0.1s" id="hubungiKami">
         <div class="container pt-5">
             <div class="row gy-5 gx-0">
                 <div class="col-lg-6 pe-lg-5 wow fadeIn" data-wow-delay="0.3s">
